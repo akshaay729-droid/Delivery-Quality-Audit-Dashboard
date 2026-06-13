@@ -1,5 +1,26 @@
 # 🚚 Delivery Quality Audit Dashboard
 
+## Live Demo
+
+🔗 Streamlit App:
+https://delivery-quality-audit-dashboard-5c5hrf53rko28abrjgjwf9.streamlit.app
+
+## GitHub Repository
+
+🔗 Repository:
+https://github.com/akshaay729-droid/Delivery-Quality-Audit-Dashboard
+
+## Features
+
+- Executive Summary
+- SLA Compliance Tracking
+- Driver Performance Analysis
+- City Performance Dashboard
+- Issue Severity Analysis
+- Root Cause Analysis
+- Orders Requiring Attention
+- Operational Recommendations
+
 ## Overview
 
 A Streamlit-based analytics dashboard for auditing delivery operations.
