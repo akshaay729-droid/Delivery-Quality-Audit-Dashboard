@@ -65,6 +65,3 @@ streamlit run app.py
 
 ---
 
-## Sample Dashboard
-
-(Add screenshots here)
